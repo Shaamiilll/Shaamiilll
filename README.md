@@ -30,16 +30,13 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
+- Ecommerce App (Node.js)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
 - My CSS skill
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
+- 📱 Data Structure
 - Styled Components  
 
 ## 💼 Technical Skills
