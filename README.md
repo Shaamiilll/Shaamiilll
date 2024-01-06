@@ -15,7 +15,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 👨‍💻 MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
 
-- ✉️  You can contact me at [faristpwork@gmail.com](mailto:faristpwork@gmail.com)
+- ✉️  You can contact me at [shamilamiyan@.com](mailto:Shamilamiyan@gmail.com)
 - 🧠  I'm learning Next JS
 - 🤝  I'm open to collaborating on Web Development Projects Open, Source Contributions
 ### 🤝 Connect with me:
