@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://www.canva.com/design/DAF5GUyUfHY/YT8aUXq3H8I63B7sy653bw/view?utm_content=DAF5GUyUfHY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/shaamiilll/shaamiilll/main/images/linkedin.svg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
