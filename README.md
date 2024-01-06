@@ -15,7 +15,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 - ✉️  You can contact me at [shamilamiyan@.com](mailto:Shamilamiyan@gmail.com)
-- 🧠  I'm learning Next JS
+- 🧠  I'm learning Data Structure
 - 🤝  I'm open to collaborating on Web Development Projects Open, Source Contributions
 ### 🤝 Connect with me:
 
