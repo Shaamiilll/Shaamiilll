@@ -29,14 +29,16 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Ecommerce App (Node.js)
+- SkillUp E-Learning platform (MERN)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
 - My CSS skill
+
 
 ## 🌱 I'm currently learning
 
 - 📱 React js
-- Tailwindcss 
+- Tailwindcss
+- jest
 
 ## 💼 Technical Skills
 <div>
