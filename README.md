@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Shamil</a> 👋
+Hi there, I'm <a href="https://www.shamil.website/" target="_blank" rel="noreferrer">Shamil</a> 👋
 </h3>
 
 <h2 align="center">
