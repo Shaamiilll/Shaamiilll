@@ -15,7 +15,7 @@ I'm a Full-Stack Web Developer 💻 and Designer 🎨!
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 - ✉️  You can contact me at [shamilamiyan@gmail.com](mailto:Shamilamiyan@gmail.com)
-- 🧠  I'm learning React + tailwindcss
+- 🧠  I'm learning Graphql
 - 🤝  I'm open to collaborating on Web Development Projects Open, Source Contributions
 ### 🤝 Connect with me:
 
@@ -28,16 +28,16 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- My old projects
+- Updating the Previous project
 - SkillUp E-Learning platform (MERN)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
+- Sell your work platform (Working on it soon...)
 - My CSS skill
 
 
 ## 🌱 I'm currently learning
 
-- 📱 React js
-- Tailwindcss
+- 📱 GraphQL
+- Next.js
 - jest
 
 ## 💼 Technical Skills
