@@ -4,46 +4,37 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.shamil.website/" target="_blank" rel="noreferrer">Shamil</a> 👋
+Hi there, I'm <a href="https://www.shamil.website/" target="_blank" rel="noreferrer">Shamil</a>
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻 and Designer 🎨!
+I'm a Full-Stack Developer
 </h2> 
 
 👨‍💻 MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 - ✉️  You can contact me at [shamilamiyan@gmail.com](mailto:Shamilamiyan@gmail.com)
-- 🧠  I'm learning Graphql
 - 🤝  I'm open to collaborating on Web Development Projects Open, Source Contributions
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/shamilamiyan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/shaamiilll/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://twitter.com/Shamil58027587"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+##  I'm currently working on
 
-## 🔭 I'm currently working on
+- For an Organisation
+- Updating my projects
 
-- Updating the Previous project
-- SkillUp E-Learning platform (MERN)
-- Sell your work platform (Working on it soon...)
-- My CSS skill
+##  I'm currently learning
 
-
-## 🌱 I'm currently learning
-
-- 📱 GraphQL
 - Next.js
-- jest
+- Knex.js
 
 ## 💼 Technical Skills
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
