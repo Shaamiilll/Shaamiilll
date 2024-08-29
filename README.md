@@ -11,7 +11,7 @@ Hi there, I'm <a href="https://www.shamil.website/" target="_blank" rel="norefer
 I'm a Full-Stack Developer
 </h2> 
 
-👨‍💻 MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
+MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 -  You can contact me at [shamilamiyan@gmail.com](mailto:Shamilamiyan@gmail.com)
