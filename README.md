@@ -16,7 +16,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 -  You can contact me at [shamilamiyan@gmail.com](mailto:Shamilamiyan@gmail.com)
 -  I'm open to collaborating on Web Development Projects Open, Source Contributions
-### 🤝 Connect with me:
+###  Connect with me:
 
 <a href="https://www.linkedin.com/in/shamilamiyan/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg" alt="Shamil | LinkedIn" width="40" height="40"/></a>
 <a href="https://www.instagram.com/shaamiilll/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Instagram.svg" alt="Shamil | Instagram"  width="40" height="40"/></a>
