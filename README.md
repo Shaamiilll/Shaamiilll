@@ -14,8 +14,8 @@ I'm a Full-Stack Developer
 👨‍💻 MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-- ✉️  You can contact me at [shamilamiyan@gmail.com](mailto:Shamilamiyan@gmail.com)
-- 🤝  I'm open to collaborating on Web Development Projects Open, Source Contributions
+-  You can contact me at [shamilamiyan@gmail.com](mailto:Shamilamiyan@gmail.com)
+-  I'm open to collaborating on Web Development Projects Open, Source Contributions
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/shamilamiyan/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg" alt="Shamil | LinkedIn" width="40" height="40"/></a>
