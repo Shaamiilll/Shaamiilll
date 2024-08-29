@@ -19,7 +19,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/shamilamiyan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/shaamiilll/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Instagram.svg" alt="Shamil | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/shaamiilll/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Instagram.svg" alt="Shamil | Instagram"  width="40" height="40"/></a>
 </br>
 
 ##  I'm currently working on
