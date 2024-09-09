@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://www.shamil.website/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Shaamiilll/Shaamiilll/main/images/SHAML.png" alt="my banner"></a>
 </p>
@@ -12,10 +11,14 @@ I'm a Full-Stack Developer
 </h2> 
 
 MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shaamiilll&label=PROFILE+VIEWS&color=blue&style=flat-square)
+
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 -  You can contact me at [shamilamiyan@gmail.com](mailto:Shamilamiyan@gmail.com)
 -  I'm open to collaborating on Web Development Projects Open, Source Contributions
+
 ##  Connect with me:
 
 <a href="https://www.linkedin.com/in/shamilamiyan/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg" alt="Shamil | LinkedIn" width="40" height="40"/></a>
@@ -52,10 +55,4 @@ I love the entire process of developing creative websites. I love the challenge 
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Redux.svg" title="redux" **alt="redux" width="40" height="40"/>
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Firebase-Dark.svg" title="firebase" **alt="firebase" width="40" height="40"/>
   <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Figma-Dark.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-
 </div>
-
-</br>
-
-
-
