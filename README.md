@@ -21,23 +21,17 @@
   <img src="https://komarev.com/ghpvc/?username=Shaamiilll&label=Profile%20views&color=0e75b6&style=flat" alt="Shamil's profile views" /> 
 </p>
 <h2 align="center">About Me 🚀</h2>
-const shamil = {
-  passions: ["Web Development", "Problem Solving", "Learning New Tech"],
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  tools: ["React", "Node.js", "Django", "MongoDB", "Next.js", "AWS"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  currentFocus: "Building scalable and efficient web applications",
-  funFact: "I can debug with my eyes closed! (Just kidding, but I'm getting there 😄)"
-};
-<p align="center">
-  MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
+<p align="center" style="font-family:'Poppins', sans-serif; font-size:16px;">
+MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 </p>
+
 <h2 align="center">🔭 I'm currently working on</h2>
 <p align="center">
-  🏢 Projects for an Organization<br>
-  🚀 Updating my personal projects
+   Projects for an Organization<br>
+   Updating my personal projects
 </p>
-<h2 align="center">🌱 I'm currently learning</h2>
+<h2 align="center"> I'm currently learning</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
