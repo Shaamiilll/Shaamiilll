@@ -27,13 +27,13 @@ I love the entire process of developing creative websites. I love the challenge 
 ## I'm currently working on
 
 - For an Organisation
-- Updating my projects
+- Building 2 Large scale Saas Application
 
 ## I'm currently learning
 
 - Next.js
-- SQL
-- ORM
+- GraphQL
+- kubernetes and docker
 
 ## Technical Skills
 <div style="font-family:'Poppins', sans-serif; font-size:14px;">
