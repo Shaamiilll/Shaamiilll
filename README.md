@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://www.shamil.website/" target="_blank" rel="norefer
 </h3>
 
 <h2 align="center" style="font-family:'Poppins', sans-serif; color:#333;">
-SOftware Engineer
+Software Engineer
 </h2>
 
 <p align="center" style="font-family:'Poppins', sans-serif; font-size:16px;">
