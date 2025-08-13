@@ -3,18 +3,19 @@
 </p>
 
 <h3 align="center" style="font-family:'Poppins', sans-serif; color:#4A90E2;">
-Hi there, I'm <a href="https://www.shamil.website/" target="_blank" rel="noreferrer" style="color:#4A90E2; font-family:'Poppins', sans-serif;">Shamil A</a>
+Heyyy there, I'm <a href="https://www.shamil.website/" target="_blank" rel="noreferrer" style="color:#4A90E2; font-family:'Poppins', sans-serif;">Shamil A</a>
 </h3>
 
-<h2 align="center" style="font-family:'Poppins', sans-serif; color:#333;">
-Software Engineer
+<h2 align="center" style="font-family:'Poppins', sans-serif; color:#333; margin:0;">
+  Software Engineer
 </h2>
 
-<p align="center" style="font-family:'Poppins', sans-serif; font-size:16px;">
-Software Engineer with strong expertise in building scalable, high-performance systems. Skilled in system design, microservices, caching, and distributed architectures.
-Proficient in modern JavaScript/TypeScript,Node.js , React.js, Python, and cloud platforms like AWS.
-Experienced in creating fault-tolerant backends, optimizing performance, and handling large-scale traffic.
+<p align="center" style="font-family:'Poppins', sans-serif; font-size:16px; margin-top:5px;">
+  Software Engineer with strong expertise in building scalable, high-performance systems. Skilled in system design, microservices, caching, and distributed architectures.
+  Proficient in modern JavaScript/TypeScript, Node.js, React.js, Python, and cloud platforms like AWS.
+  Experienced in creating fault-tolerant backends, optimizing performance, and handling large-scale traffic.
 </p>
+
 
 - You can contact me at [connect@shamil.info](mailto:Shamilamiyan@gmail.com)
 - I'm open to collaborating on Web Development Projects and Open Source Contributions.
