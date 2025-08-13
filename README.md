@@ -7,12 +7,13 @@ Hi there, I'm <a href="https://www.shamil.website/" target="_blank" rel="norefer
 </h3>
 
 <h2 align="center" style="font-family:'Poppins', sans-serif; color:#333;">
-I'm a Full-Stack Developer
+SOftware Engineer
 </h2>
 
 <p align="center" style="font-family:'Poppins', sans-serif; font-size:16px;">
-MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+Software Engineer with strong expertise in building scalable, high-performance systems. Skilled in system design, microservices, caching, and distributed architectures.
+Proficient in modern JavaScript/TypeScript,Node.js , React.js, Python, and cloud platforms like AWS.
+Experienced in creating fault-tolerant backends, optimizing performance, and handling large-scale traffic.
 </p>
 
 - You can contact me at [connect@shamil.info](mailto:Shamilamiyan@gmail.com)
