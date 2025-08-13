@@ -6,7 +6,7 @@
 Heyyy there, I'm <a href="https://www.shamil.website/" target="_blank" rel="noreferrer" style="color:#4A90E2; font-family:'Poppins', sans-serif;">Shamil A</a>
 </h3>
 
-<h2 align="center" style="font-family:'Poppins', sans-serif; color:#333; margin:0;">
+<h2 align="center" style="font-family:'Poppins', sans-serif;">
   Software Engineer
 </h2>
 
