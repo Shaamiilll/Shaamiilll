@@ -6,9 +6,9 @@
 Heyyy there, I'm <a href="https://www.shamil.website/" target="_blank" rel="noreferrer" style="color:#4A90E2; font-family:'Poppins', sans-serif;">Shamil A</a>
 </h3>
 
-<h2 align="center" style="font-family:'Poppins', sans-serif;">
+
   Software Engineer
-</h2>
+
 
 <p align="center" style="font-family:'Poppins', sans-serif; font-size:16px; margin-top:5px;">
   Software Engineer with strong expertise in building scalable, high-performance systems. Skilled in system design, microservices, caching, and distributed architectures.
@@ -17,7 +17,7 @@ Heyyy there, I'm <a href="https://www.shamil.website/" target="_blank" rel="nore
 </p>
 
 
-- You can contact me at [connect@shamil.info](mailto:Shamilamiyan@gmail.com)
+- Connect Me [connect@shamil.info](mailto:Shamilamiyan@gmail.com)
 - I'm open to collaborating on Web Development Projects and Open Source Contributions.
 
 ## Connect with me:
