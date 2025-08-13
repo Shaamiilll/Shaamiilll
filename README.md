@@ -2,7 +2,7 @@
   <a href="https://www.shamil.website/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Shaamiilll/Shaamiilll/main/images/Git.png" alt="my banner"></a>
 </p>
 
-<h3 align="center" style="font-family:'Poppins', sans-serif; color:#4A90E2;">
+<h3 align="center" >
 Heyyy there, I'm <a href="https://www.shamil.website/" target="_blank" rel="noreferrer" style="color:#4A90E2; font-family:'Poppins', sans-serif;">Shamil A</a>
 </h3>
 
@@ -11,7 +11,7 @@ Heyyy there, I'm <a href="https://www.shamil.website/" target="_blank" rel="nore
   Software Engineer
 </h2>
 
-<p align="center" style="font-family:'Poppins', sans-serif; font-size:16px;">
+<p align="center" ">
   Software Engineer with strong expertise in building scalable, high-performance systems. Skilled in system design, microservices, caching, and distributed architectures.
   Proficient in modern JavaScript/TypeScript, Node.js, React.js, Python, and cloud platforms like AWS.
   Experienced in creating fault-tolerant backends, optimizing performance, and handling large-scale traffic.
