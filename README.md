@@ -15,7 +15,7 @@ MERN stack enthusiast on a coding journey. Building web applications, solving pr
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 </p>
 
-- You can contact me at [shamilamiyan@gmail.com](mailto:Shamilamiyan@gmail.com)
+- You can contact me at [connect@shamil.info](mailto:Shamilamiyan@gmail.com)
 - I'm open to collaborating on Web Development Projects and Open Source Contributions.
 
 ## Connect with me:
@@ -27,13 +27,12 @@ I love the entire process of developing creative websites. I love the challenge 
 ## I'm currently working on
 
 - For an Organisation
-- Building 2 Large scale Saas Application
+- Building 2 Large scale SaaS Application
 
 ## I'm currently learning
 
-- Next.js
-- GraphQL
-- kubernetes and docker
+- system design
+- Nest.js
 
 ## Technical Skills
 <div style="font-family:'Poppins', sans-serif; font-size:14px;">
