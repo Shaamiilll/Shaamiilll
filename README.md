@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://www.shamil.website/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Shaamiilll/Shaamiilll/main/images/SHAML.png" alt="my banner"></a>
+  <a href="https://www.shamil.website/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Shaamiilll/Shaamiilll/main/images/Git.png" alt="my banner"></a>
 </p>
 
 <h3 align="center" style="font-family:'Poppins', sans-serif; color:#4A90E2;">
-Hi there, I'm <a href="https://www.shamil.website/" target="_blank" rel="noreferrer" style="color:#4A90E2; font-family:'Poppins', sans-serif;">Shamil</a>
+Hi there, I'm <a href="https://www.shamil.website/" target="_blank" rel="noreferrer" style="color:#4A90E2; font-family:'Poppins', sans-serif;">Shamil A</a>
 </h3>
 
 <h2 align="center" style="font-family:'Poppins', sans-serif; color:#333;">
