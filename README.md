@@ -32,7 +32,8 @@ Experienced in creating fault-tolerant backends, optimizing performance, and han
 ## I'm currently learning
 
 - system design
-- Nest.js
+- bun.js
+- hono (nodejs0
 
 ## Technical Skills
 <div style="font-family:'Poppins', sans-serif; font-size:14px;">
