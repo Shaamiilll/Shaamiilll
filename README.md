@@ -33,7 +33,7 @@ Experienced in creating fault-tolerant backends, optimizing performance, and han
 
 - system design
 - bun.js
-- hono (nodejs0
+- hono 
 
 ## Technical Skills
 <div style="font-family:'Poppins', sans-serif; font-size:14px;">
