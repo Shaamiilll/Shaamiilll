@@ -26,8 +26,8 @@ Experienced in creating fault-tolerant backends, optimizing performance, and han
 
 ## I'm currently working on
 
-- For an Organisation
-- Building 2 Large scale SaaS Application
+- working for or an Organisation
+- Building a Large scale application
 
 ## I'm currently learning
 
