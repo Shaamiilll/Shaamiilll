@@ -12,7 +12,7 @@ Experienced in creating fault-tolerant backends, optimizing performance, and han
 Connect - [connect@shamil.info](mailto:Shamilamiyan@gmail.com) 
 
 ## 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/shamilamiyan/">
     <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
