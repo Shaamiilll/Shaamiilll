@@ -11,8 +11,9 @@ Experienced in creating fault-tolerant backends, optimizing performance, and han
 
 
 - Connect - [connect@shamil.info](mailto:Shamilamiyan@gmail.com)
-
-<a href="https://www.linkedin.com/in/shamilamiyan/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg" alt="Shamil | LinkedIn" width="20" height="20"/></a>
+  
+<img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<a href="https://www.linkedin.com/in/shamilamiyan/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg" alt="Shamil | LinkedIn" width="40" height="40"/></a>
 <a href="https://www.instagram.com/shaamiilll/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Instagram.svg" alt="Shamil | Instagram" width="20" height="20"/></a>
 </br>
 
