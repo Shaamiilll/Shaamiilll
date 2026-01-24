@@ -2,11 +2,6 @@
   <a href="https://www.shamil.info/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Shaamiilll/Shaamiilll/main/images/Git.png" alt="my banner"></a>
 </p>
 
-<h3 align="center" >
-Heyyy there, I'm <a href="https://www.shamil.info/" target="_blank" rel="noreferrer" style="color:#4A90E2; font-family:'Poppins', sans-serif;">Shamil A</a>
-</h3>
-
-
 <h2 align="center">Software Engineer</h2>
 <p align="center">
 Software Engineer with strong expertise in building scalable, high-performance systems. Skilled in system design, microservices, caching, and distributed architectures.  
