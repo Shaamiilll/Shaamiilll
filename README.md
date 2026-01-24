@@ -22,7 +22,6 @@ Connect - [connect@shamil.info](mailto:Shamilamiyan@gmail.com)
   </a>
 </p>
 
-<br/><br/>
 
 
 
