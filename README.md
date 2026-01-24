@@ -16,15 +16,6 @@ Experienced in creating fault-tolerant backends, optimizing performance, and han
 <a href="https://www.instagram.com/shaamiilll/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Instagram.svg" alt="Shamil | Instagram" width="40" height="40"/></a>
 </br>
 
-## I'm currently working on
-
-- working for or an Organisation
-- Building a Large scale application
-
-## I'm currently learning
-
-- system design
-- bun.js
 
 
 ## Technical Skills
