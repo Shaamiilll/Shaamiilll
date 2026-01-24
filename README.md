@@ -10,11 +10,9 @@ Experienced in creating fault-tolerant backends, optimizing performance, and han
 </p>
 
 
-- Connect Me [connect@shamil.info](mailto:Shamilamiyan@gmail.com)
-- I'm open to collaborating on Web Development Projects and Open Source Contributions.
+- Connect - [connect@shamil.info](mailto:Shamilamiyan@gmail.com)
 
 ## Connect on Socials:
-
 <a href="https://www.linkedin.com/in/shamilamiyan/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg" alt="Shamil | LinkedIn" width="20" height="20"/></a>
 <a href="https://www.instagram.com/shaamiilll/"><img align="left" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Instagram.svg" alt="Shamil | Instagram" width="20" height="20"/></a>
 </br>
