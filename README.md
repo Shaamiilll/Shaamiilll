@@ -9,29 +9,29 @@ Proficient in modern JavaScript/TypeScript, Node.js, React.js, Python, and cloud
 Experienced in creating fault-tolerant backends, optimizing performance, and handling large-scale traffic.
 </p>
 
-
-<p align="center">
-  <strong>Connect</strong><br/>
-  <a href="mailto:connect@shamil.info">connect@shamil.info</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="right" style="padding-right:16px;">
+      <strong>Connect</strong><br/>
+      <a href="mailto:connect@shamil.info">connect@shamil.info</a>
+    </td>
+    <td align="left">
+      <a href="https://www.linkedin.com/in/shamilamiyan/">
+        <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg"
+             alt="LinkedIn"
+             width="28" height="28"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.instagram.com/shaamiilll/">
+        <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Instagram.svg"
+             alt="Instagram"
+             width="28" height="28"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shamilamiyan/">
-    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/LinkedIn.svg"
-         alt="Shamil | LinkedIn"
-         width="32" height="32"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/shaamiilll/">
-    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Instagram.svg"
-         alt="Shamil | Instagram"
-         width="32" height="32"/>
-  </a>
-</p>
-
-<br/><br/>
 
 
 
