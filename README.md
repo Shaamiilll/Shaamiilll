@@ -8,7 +8,9 @@ Software Engineer with strong expertise in building scalable, high-performance s
 Proficient in modern JavaScript/TypeScript, Node.js, React.js, Python, and cloud platforms like AWS.  
 Experienced in creating fault-tolerant backends, optimizing performance, and handling large-scale traffic.
 </p>
-
+<p align="center">
+Building Fliq
+</p>
 Connect - [connect@shamil.info](mailto:Shamilamiyan@gmail.com) 
 
 ## 
