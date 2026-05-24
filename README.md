@@ -8,7 +8,7 @@ Software Engineer with strong expertise in building scalable, high-performance s
 Proficient in modern JavaScript/TypeScript , Node.js , React.js, Python, and cloud platforms like AWS.  
 Experienced in creating fault-tolerant backends, optimizing performance, and handling large-scale traffic.
 
-  builidng Fliq
+  builidng Fliq social
 </p>
 
 
