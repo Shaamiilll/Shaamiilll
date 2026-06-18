@@ -10,6 +10,7 @@ Proficient in modern JavaScript/TypeScript , Node.js , React.js, Python, and clo
 Experienced in creating fault-tolerant backends, optimizing performance, and handling large-scale traffic.
 
   builidng Fliq social software
+  Building a personal AI
 </p>
 
 
