@@ -2,6 +2,7 @@
   <a href="https://www.shamil.info/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Shaamiilll/Shaamiilll/main/images/Git.png" alt="my banner"></a>
 </p>
 
+
 <h2 align="center">Software Engineer</h2>
 <p align="center">
 Software Engineer with strong expertise in building scalable, high-performance systems. Skilled in system design, microservices, caching, and distributed architectures.  
